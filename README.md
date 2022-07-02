@@ -4,20 +4,30 @@
 
 
 
-一个萌新开发者，正在努力学习 web development...🖖
+<p>一个萌新开发者，正在努力学习 web development...🖖</p>
 
 
 
-正在学习的技术:
+<P>🚮正在学习的技术:</P>
 <div align="left">
+  <p>Front end:</p>
   <img src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=Vue.js&logoColor=white"></img>
   <img src="https://img.shields.io/badge/-Vite-5468ff?style=flat-square&logo=Vite&logoColor=white"></img>
   <img src="https://img.shields.io/badge/-TypeScript-235a97?style=flat-square&logo=TypeScript&logoColor=white"></img>
   <img src="https://img.shields.io/badge/-TailwindCSS-0EA5E9?style=flat-square&logo=Tailwind%20CSS&logoColor=white"></img>
+  ...
 </div>
 
+<div align="left">
+  <p>Back end:</p>
+  <img src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/-MongoDB-00ED64?style=flat-square&logo=MongoDB&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/-Node.js-026e00?style=flat-square&logo=Node.js&logoColor=white"></img>
+  ...
+</div>
 
-学艺不精，继续努力吧...
+<p>学的有点慢呢...</p>
+<p>🙇‍♀️肤浅末学, 还需要努力呀...</p>
 
 
 
