@@ -21,6 +21,8 @@
 
 
 
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=youzege&theme=dracula"></img>
+</div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=youzege&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
