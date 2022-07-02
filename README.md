@@ -2,7 +2,7 @@
 ​    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=0EA5E9&center=true&lines=%E5%96%9C%E4%B8%9C%E4%B8%9C%E8%A6%81%E5%8A%AA%E5%8A%9B%E5%AD%A6%E4%B9%A0~%F0%9F%92%A6">
 </h1>                                 
 
-------
+
 
 一个萌新开发者，正在努力学习 web development...🖖
 
