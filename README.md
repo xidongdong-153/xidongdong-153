@@ -30,9 +30,3 @@
 <p>🙇‍♀️滴滴滴哒哒哒...</p>
 
 
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=youzege&theme=dracula"></img>
-</div>
-
-
