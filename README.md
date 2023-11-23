@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=A71CF7FF&center=true&lines=Hi，I'm+XiDongDong+👋;Full-Stack+Aspirations+🚀;Passionate+About+Vue+ +React;Always+Learning+Growing+🌱">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&color=A71CF7FF&center=true&lines=Hi，I'm+XiDongDong+👋;Full-Stack+Aspirations+🚀;Passionate+About+Vue+ +React;Always+Learning+Growing+🌱">
 </h1>
 
 <h4 align="center"><strong>Aspiring to Be a Free Developer</strong></h4>
